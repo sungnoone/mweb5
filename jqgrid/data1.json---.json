@@ -1,0 +1,13 @@
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
